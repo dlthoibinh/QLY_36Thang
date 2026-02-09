@@ -1,5 +1,5 @@
 const BASE = new URL('./', self.location).pathname;
-const CACHE = 'QL-36T-v11';
+const CACHE = 'QL-36T-v12';
 
 const STATIC_ASSETS = [
   BASE,
